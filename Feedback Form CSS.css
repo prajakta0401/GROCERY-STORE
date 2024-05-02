@@ -1,0 +1,44 @@
+body
+{
+    background-image: url(fed.jpg);
+    background-size: cover;
+}
+
+.wrap{
+    width: 800px;
+    height: 700px;
+    margin: 30px auto;
+
+}
+h1{
+    font-size: 70px;
+    color:black;
+    text-align: center;
+    border-bottom: 2px solid pink;
+}
+table{font-size: 30px;}
+
+td{
+padding: 10px 20px 0px 0px;
+}
+
+.txt{
+    width: 400px;
+    height:50px ;
+    border-radius: 8px;
+}
+.textarea{
+    width: 830px;
+    height:150px ;
+    border-radius: 8px;
+}
+
+.btn{
+    width: 830px;
+    height:50px ;
+    border-color: darkblue;
+border-radius: 8px;
+font-size: 20px;
+font-size: 20px;
+color: black;
+}
